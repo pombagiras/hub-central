@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alexialuzdeferro.github.io/start/">
+  <a href="https://pombagiras.github.io/hub-central/">
     <img src="https://img.shields.io/badge/ACESSE_O_HUB-AO_VIVO-ff0040?style=for-the-badge&logo=github&logoColor=white" alt="Link do Site">
   </a>
 </p>
@@ -102,7 +102,7 @@ O sistema organiza 42 portais em **8 Esferas de Poder**:
 ## 🚀 COMO UTILIZAR
 
 ### Para Visitantes:
-1. **Acesse** o [Hub Central Ao Vivo](https://alexialuzdeferro.github.io/start/)
+1. **Acesse** o [Hub Central Ao Vivo](https://pombagiras.github.io/hub-central/)
 2. **Navegue** pelas categorias ou use a busca
 3. **Clique** em qualquer portal para explorar
 
