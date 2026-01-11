@@ -115,3 +115,28 @@ git clone https://github.com/alexialuzdeferro/start.git
 open index.html
 # Ou
 xdg-open index.html
+
+hub-central/
+├── index.html              # Página principal do hub
+├── README.md               # Este arquivo
+├── LICENSE                 # Licença MIT
+├── assets/                 # (Opcional) Recursos estáticos
+│   ├── css/               # Estilos adicionais
+│   └── js/                # Scripts complementares
+└── .github/
+    └── workflows/         # CI/CD para GitHub Pages
+
+// No arquivo index.html, adicione à matriz DATA.links:
+{
+  id: "novo-portal",
+  title: "Nome do Novo Portal",
+  url: "https://link-do-portal",
+  category: "Categoria",
+  featured: true/false  // Se for um destaque
+}
+// Atualize a matriz DATA.categories:
+categories: [
+  "Nova Categoria 1",
+  "Nova Categoria 2",
+  // ...
+]
